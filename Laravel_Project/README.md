@@ -1,9 +1,9 @@
 # Task Manager (Laravel)
 
 Project Code: WST21-PM-2026-SF
-Student Name: 
-Course & Year: BSIT, [your year level]
-Database Used: MySQL (or SQLite — update to match what you actually configured)
+Student Name: JANIOLA CARLOS MIGUEL
+Course & Year: BSIT-2, SEC-1
+Database Used: MySQL
 
 ## Features
 - Add Task
@@ -20,4 +20,9 @@ Database Used: MySQL (or SQLite — update to match what you actually configured
 5. Run `php artisan serve` and visit `http://127.0.0.1:8000`.
 
 ## Screenshots
-(coming because its not done yet)
+<img width="1901" height="906" alt="image" src="https://github.com/user-attachments/assets/df699ce6-1863-4ebe-81e4-6a81d7f23c17" />
+<img width="1909" height="906" alt="image" src="https://github.com/user-attachments/assets/867af04b-d81d-45a0-bf93-ee7db04990d2" />
+<img width="1908" height="965" alt="image" src="https://github.com/user-attachments/assets/186ea64f-e734-468b-85f1-0683bed5d6ae" />
+
+
+
