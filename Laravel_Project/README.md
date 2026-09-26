@@ -1,7 +1,7 @@
 # Task Manager (Laravel)
 
 Project Code: WST21-PM-2026-SF
-Student Name: JANIOLA CARLOS MIGUEL
+Student Name: JANIOLA, CARLOS MIGUEL C.
 Course & Year: BSIT-2, SEC-1
 Database Used: MySQL
 
